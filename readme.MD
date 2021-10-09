@@ -20,5 +20,8 @@
 7. 在rancher中将集群加入
 8. 安装istro，并部署到集群
 9. 在rancher安装集群监控工具
+10. springcloud项目docker化，docker-compose编排
+11. springcloud项目 docker-compose编排 部署到k8s集群
+10. eureka k8s 日志统一管理
 10. 搭建集群自动化流水线系统
 11. 项目运维功能发布工作流程
